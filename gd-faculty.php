@@ -4,7 +4,7 @@
 Plugin Name: GD Faculty
 Plugin URI: http://sussexschool.org/
 Description: Used by millions, to make WP better.
-Version: 1.0.6
+Version: 1.0.7
 Author: Grow Design
 Author URI: http://www.growdesign.net/
 License: GPLv2 or later
@@ -60,7 +60,7 @@ function register_cpt_faculty() {
         'publicly_queryable' => true,
         'exclude_from_search' => false,
         'has_archive' => true,
-        'menu_icon' => 'dashicons-groups',
+        'menu_icon' => 'dashicons-welcome-learn-more',
         'query_var' => true,
         'can_export' => true,
         'rewrite' => true,
