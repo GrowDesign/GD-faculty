@@ -1,0 +1,6 @@
+.et-pb-all-modules .gd_pb_faculty_portfolio::before, 
+.et-pb-all-modules .et_pb_fullwidth_portfolio::before, 
+.et_pb_saved_layouts_list .gd_pb_faculty_portfolio::before, 
+.et_pb_saved_layouts_list .et_pb_fullwidth_portfolio::before {
+    content: "W";
+}
